@@ -1,6 +1,15 @@
 # SpaceWar
 A simple game on pygame
- Markup : 1. A numbered list
-              1. A nested numbered list
-              2. Which is numbered
-          2. Which is numbered
+
+ ### How to run: ###
+ 1. open terminal
+ 2. go to game directory(`cd name/`)
+ 3. write `python app.py`
+ 
+  ### How to play ###
+  
+  Use <kbd>→</kbd> to go right and <kbd>←</kbd> to go left as simple as that 
+  
+   __It is the earliest version of the game if have any idea please contact me: dtyurin01@gmail.com__ 
+  
+  
