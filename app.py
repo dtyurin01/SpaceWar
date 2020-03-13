@@ -244,6 +244,16 @@ def main_menu():
         textrect = textobj.get_rect()
         textrect.topleft = (225, 400)
         window.blit(textobj, textrect)
+        
+        textAuthor = 'Made By Tiurin Dima'
+        fontAuthor = pygame.font.SysFont("monospace", 15)
+        def draw_text(text,font,color,window, x,y):
+            textobj = font.render(text, 10, color)
+            textrect = textobj.get_rect()
+            textrect.topleft = (x,y)
+            window.blit(textobj, textrect)
+            
+        draw_text(textAuthor, fontAuthor, dark, window ,width-200, height-40)
 
         button('Start', 250,450, 100,50, 'play')
 
