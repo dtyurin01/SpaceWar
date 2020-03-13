@@ -1,5 +1,5 @@
 # SpaceWar
-A simple game on pygame
+A simple game on python
 
  ### How to run: ###
  1. open terminal
