@@ -14,8 +14,8 @@ A simple game on python
   
   
   ### VERSIONS: ###
-   #### 0.1.0 ####
-    1.LIST:
-     *added sound effects and background music
-     *fixed some issues
+   #### 0.1.0 ###
+   LIST:
+     * added sound effects and background music
+     * fixed some issues 
   
