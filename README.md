@@ -5,6 +5,7 @@ A simple game on python
  1. open terminal
  2. go to game directory(`cd name/`)
  3. write `python app.py`
+ 4. also you must have pre installed python
  
   ### How to play ###
   
