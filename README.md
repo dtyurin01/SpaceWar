@@ -10,7 +10,6 @@ A simple game on python
   
   Use <kbd>→</kbd> to go right and <kbd>←</kbd> to go left as simple as that also use <kbd>Space</kbd> to shoot
   
-   __It is the earliest version of the game if you have any idea please contact me: dtyurin01@gmail.com__ 
   
   
   ### VERSIONS: ###
@@ -18,3 +17,4 @@ A simple game on python
  1. added sound effects and background music
  2. fixed some issues 
   
+__It is the earliest version of the game if you have any idea please contact me: dtyurin01@gmail.com__ 
