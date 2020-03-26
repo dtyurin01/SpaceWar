@@ -8,8 +8,8 @@ A simple game on python
  3. write `python app.py`
  4. also you must have pre installed python and pygame
  #### The Second Method if you are a normal user ####
- 1.download the folder
- 2.open build/exe.win32-3.8/app.exe
+ 1. download the folder
+ 2. open build/exe.win32-3.8/app.exe
 
   ### How to play ###
   
